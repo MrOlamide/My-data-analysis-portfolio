@@ -29,3 +29,8 @@ This repository serves to showcase my skills and as a platform to share my proje
 # Certificates
 I firmly hold the belief that the truest testament to one's skills lies in the practical application and sharing of their work, with certificates often emerging as a byproduct. As such, I've compiled a reverse-chronological list of my certifications, complete with their respective completion dates.
 
+# Contacts
+- [LinkedIn]
+- [Facebook]
+- [Gmail]
+- [Twitter]

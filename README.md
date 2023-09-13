@@ -20,4 +20,8 @@ This repository serves to showcase my skills and as a platform to share my proje
 
 # Table of Contents 
 - [About](#About)
+- [Portfolio Projects](#Portfolio Projects)
+- [Study Projects] (#Study Projects)
+- [Certificates] (#Certificates)
+- [Contacts](#Contacts)
 

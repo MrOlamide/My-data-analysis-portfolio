@@ -13,3 +13,6 @@ have worked in the manufacturing business, I Also managed cyber café for many y
 developed skills like Microsoft excel, Power Point, and Microsoft Word. 
 My love for research’s grew my interest in data analysis, I like collecting, interpreting, analyzing
 data. I like solving problems, making critical and constructive decisions. 
+
+
+This repository serves to showcase my skills and as a platform to share my projects, and a way to track my progress in Data Analytics and Data Science-related topics.

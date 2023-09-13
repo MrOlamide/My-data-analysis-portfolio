@@ -18,6 +18,10 @@ data. I like solving problems, making critical and constructive decisions.
 
 This repository serves to showcase my skills and as a platform to share my projects, and a way to track my progress in Data Analytics and Data Science-related topics.
 
+
+# Certificates
+I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result:) So here is a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
+
 # Table of Contents 
 - [About](#About)
 - [Portfolio Projects](#PortfolioProjects)
